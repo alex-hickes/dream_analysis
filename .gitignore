@@ -1,0 +1,14 @@
+*.pyc
+*.patch
+*.log
+venv/
+.pytest_cache/
+.cache/
+.idea/
+.vscode/
+dist/
+build/
+temp/
+tmp/
+logs/
+vagrant/.vagrant/
