@@ -1,0 +1,110 @@
+mother 	OEDIPUS_COMPLEX	None	"If a mother figure appears in your dream, this generally refers to a sexual symbolism."
+father	OEDIPUS_COMPLEX	None	"Father figures for males are associated with envy. Perhaps you have some unresolved family conflict."
+mum	OEDIPUS_COMPLEX	None	"If a mother figure appears in your dream, this generally refers to a sexual symbolism."
+dad	OEDIPUS_COMPLEX	None	"Father figures for males are associated with envy. Perhaps you have some unresolved family conflict."
+table	OEDIPUS_COMPLEX	None	"Tables represent women or mother figures."
+house	BODY	None	"House represent the body. smooth, featureless buildings and male whilst featurfull ones with clingable objects are female."
+horse	PARENTS	None	"Freud interpreted that horses were symbolic of the father. Little Hans, a patient of Freuds, feared that the horse would castrate him as punishment for the incestuous desires towards his mother."
+sea	PSYCHE	None	"Visions of sea depend on its form. Calm seas reflect a good future. Rough seas show obstacles in your way. Perhaps you are going through the motions with someone?"
+field	PSYCHE	None	"Fields show a calmness in ones mind."
+king	PSYCHE	POSITIVE	"Kings are the sign of a prosperous leader. It suggests you have the power to overcome obstacles."
+queen	PSYCHE	None	"Queens are ambigous their meaning is dependant on how they are represented in the dream."
+big animal	PARENTS	None	"Big animals are associated with dominance of the parents."
+mansion	BODY	None	"A lavish building many features shows a well off physical presence."
+sea	PSYCHE	None	"Visions of sea depend on its form. Calm seas reflect a good future. Rough seas show obstacles in your way. Perhaps you are going through the motions with someone?" 
+small animal	CHILDREN	None	"Small animals represent children in dreams."
+vermin	CHILDREN	NEGATIVE	"Vermin represent a resentment to children."
+spider	SIBLINGS	NEGATIVE	"According to Jung, spiders represent shadows of ones personality, much like prey to a web."
+water	BIRTH	None	"Birth is almost always represented by some reference to water, indicating a mother-relationship to that person."
+seed	BIRTH	None	"Seeds can represent a plan that was initiated and will grow. You should try discover the path to collect the fruits of this seed."
+journey	DEATH	None	"Journeys represent death."
+trip	DEATH	None	"Taking a trip shows a willingness for death."
+clothes	BODY	None	"Clothes represents nakedness, typically by uniforms."
+naked	BODY	None	"Nakedness is a sign you need to be less reliant on others. Maybe your going through a phase of independance?"
+three	SEX_SYMBOL	None	"The number three is a reference to your genetalia. You aren't being true to yourself."
+long	None	SOMEWHAT_NEGATIVE	None
+umbrella	SEX_SYMBOL	None	"Umbrellas typically represent penises."
+bath	BODY	None	"Baths represent exposure and content in ones life."
+pole	SEX_SYMBOL	None	"Poles typically represent penises."
+tree	SEX_SYMBOL	None	"Trees typically represent penises."
+stick	SEX_SYMBOL	None	"Sticks typically represent penises."
+washington	SEX_SYMBOL	None	"The Washington Monument is a typically representation of a penises."
+eiffel	SEX_SYMBOL	None	"The Eiffel tower definitely represents a penise."
+knife	PSYCHE	NEGATIVE	"Knifes are a sign that you need to abandon a routine or person from your life."
+gun	SEX_SYMBOL	VERY_NEGATIVE	"Guns represent aggressive confrontation."
+sword	SEX_SYMBOL	POSITIVE	"Swords represent victory."
+telescope	SEX_SYMBOL	None	"Telesopes typically represent penises."
+fountain	SEX_SYMBOL	None	"Fountains symbolise a desire for new sexual ventures."
+waterfall	PSYCHE	POSITIVE	"Waterfalls represent letting go and embracing something new."
+train	SEX_SYMBOL	None	"Trains represent penises, a sexual symbol towards the former subject."
+car	SEX_SYMBOL	None	"Depending on the context, cars either refer to a lack of confidence and being passive or a current situation."
+ship	SEX_SYMBOL	None	"Boats represent female genitalia."
+plane	SEX_SYMBOL	None	"Planes can represent rapid unexpected changes. This indicates your goals or ideals are too high and unattainable."
+bridge	PSYCHE	SOMEWHAT_POSITIVE	"Bridges show a strong mother-like relation to a goal or destination."
+storm	PSYCHE	None	"Storms show conflict in the unconscious."
+beach	PSYCHE	None	"Beaches are a relaxing environments. Maybe you had some happy experiences recently?"
+smoke	None	NEGATIVE	None
+cigarette	SEX_SYMBOL	None	"Cigarettes resemble penises. Perhaps you have some sexual uncertainties?"
+balloon	LIFE_FULFILL	None	"Ballons show that your life is full of aspirations, goals, and ambitions which could go either way depending on how you handle it."
+missile	SEX_SYMBOL	NEGATIVE	"A Missile shows an erections towards something in the uncoincious."
+rocket	SEX_SYMBOL	None	"A rocket represents an erection."
+fly	SEX_SYMBOL	POSITIVE	"Flying shows current success in life."
+reptile	SEX_SYMBOL	None	"Reptiles are a sign to be cautious and take time over matters."
+snake	BODY	None	"Freud believed the snake is connected to our sexual energy. It is a phalic symbol that is connected to male figures in one's life."
+fish	BODY	None	"A Fish typically takes on its biblical definition: the truth. One of Freuds patients held a wriggling fish and it was assumed to represent a penis. Late, Freud suggested that the fish represented the patient's mother (pisces) rather than a penis."
+coat	BODY	None	"A coat is a sign of the person you display publically."
+mouth	SEX_SYMBOL	None	"A mouth represents female genitalia."
+church	SEX_SYMBOL	None	"A church represents female genitalia."
+pit	SEX_SYMBOL	None	"A pit represents female genitalia."
+cave	SEX_SYMBOL	None	"A cave represents female genitalia."
+bottle	SEX_SYMBOL	None	"A bottle represents female genitalia."
+box	SEX_SYMBOL	None	"A box represents female genitalia."
+suitcase	SEX_SYMBOL	None	"A suitcase represents female genitalia."
+shoe	SEX_SYMBOL	None	"A represents female genitalia."
+sweet	SEX_SYMBOL	POSITIVE	"Sweets represent a stand in for sexual delight."
+fruit	SEX_SYMBOL	POSITIVE	"Fruits typically represent a sexual desire and positive future opportunities."
+good	None	POSITIVE	None
+great	None	POSITIVE	None
+nice	None	POSITIVE	None
+fun	None	POSITIVE	None
+love	None	POSITIVE	None
+comforting	None	POSITIVE	None
+happy	None	POSITIVE	None
+beautiful	None	POSITIVE	None
+bad	None	NEGATIVE	None
+evil	None	VERY_NEGATIVE	None
+scary	None	VERY_NEGATIVE	None
+spooky	None	NEGATIVE	None
+shame	None	NEGATIVE	None
+night	None	NEGATIVE	None
+dark	None	NEGATIVE	None
+hit	None	NEGATIVE	None
+fight	None	NEGATIVE	None
+stab	None	NEGATIVE	None
+shoot	None	NEGATIVE	None
+hat	None	NEGATIVE	None
+scream	None	NEGATIVE	None
+jump	None	SOMEWHAT_NEGATIVE	None
+stalk	None	SOMEWHAT_NEGATIVE 	None
+trapped	PSYCHE	None 	"Being trapped suggests a lack of control. One might try to think about what in their life is responsible for feeling this way. For more information, look into Jung's dream symbols."
+forest	PYSCHE	None	"Forests or woods represent isolation and signify the uncoincious."
+chase	PSYCHE	None	"Being chased and running away is sign of reluctance to face a cause of stress in your life."
+white	PSYCHE	None	"The colour white is associated to our coincious mind, according to Carl Jung (1930)."
+black	PSYCHE	None	"The colour black is associated to our uncoincious mind, according to Carl Jung (1930)."
+blue	PSYCHE	None	"The colour blue is associated to thinking, according to Carl Jung (1930)."
+red	PSYCHE	None	"Red signifies your feelings, according to Carl Jung (1930)."
+yellow	PSYCHE	None	"The colour yellow represents intuition, according to Carl Jung (1930)."
+green	PSYCHE	None	"The colour green represents sensation, according to Carl Jung (1930)."
+silver	LIFE_FULFILL	None	"Silver represents purity and justice. It is also a symbol for protection, according to Carl Jung (1930)."
+gold	LIFE_FULFILL	None	"Gold represents wealth, determination and development, according to Carl Jung (1930)."
+orange	LIFE_FULFILL	None	"The colour Orange suggests an expanse in horizons, according to Carl Jung (1930)."
+pink	SEX_SYMBOL	None	"The colour pink represents sex and lust, according to Carl Jung (1930)."
+purple	PSYCHE	None	"The colour Purple denotes a mystic connection, according to Carl Jung (1930)."
+sunset	LIFE_FULFILL	None	"Sunsets represent reconciliation over ones life."
+octopus	LIFE_FULFILL	None	"Octopuses represent entanglement and constrictive life situations."
+running	LIFE_FULFILL	None	"Running indicates an extreme. Either chasing a dream, escaping something threatening."
+fire	PSYCHE	VERY_NEGATIVE	"Fires typically resemble anger and destruction. Indicates something is disturbing you."
+wood	PSYCHE	None	"Woods or forests represent isolation and signify the uncoincious."
+flamingo	PSYCHE	None	"Woods or forests represent isolation and signify the uncoincious."
+mountain	PSYCHE	None	"Mountains represent peaks. Its likely that you have overcome a major milestone if you end up on  top of a mountain."
+fall	LIFE_FULFILL	NEGATIVE	"Falling is a lose of control."
