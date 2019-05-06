@@ -1,0 +1,128 @@
+			Dream conversation 1: Standard
+
+Therapist:	Hello there! Come on in.
+User:		Hi
+Therapist:	Lets begin by getting your name.
+User:		My name is Sam
+Therapist:	Pleasure to meet you Sam!
+Therapist:	How about we start by getting to jist of your dream?
+User:		I was cycling around Brighton. A red car started chasing me. It hit me. A man got out. It turned out to be my father.
+Therapist:	Thats good
+Therapist:	Can you tell me how the father made you feel?
+User:		our current relationship is not great
+Therapist:	I see.
+Therapist:	Is there anything else you would like to tell me about this dream?
+User:		It was dark when this happened
+Therapist:	Excellent
+Therapist:	Well, it seems like I have enough information to interpret this dream. Before we do that, would you like to 'get analysis' or provide a 'new dream'?
+User:		get analysis
+Therapist:	From what I can see, you have some underlying issues you should be aware of. Your dream references the Psyche, Oedipus Complex in a negative way. Red signifies your feelings, according to Carl Jung (1930). Father figures for males are associated with envy. Perhaps you have some unresolved family conflict. It maybe worth looking further into Freud's ideas on the Oedipus Complex, Psyche.
+
+			Dream conversation 2: Same Symbol, Same Sentiment
+
+Therapist:	Hello there! Come on in.
+User:		Hi
+Therapist:	Lets begin by getting your name.
+User:		Hannah
+Therapist:	Pleasure to meet you Hannah!
+Therapist:	How about we start by getting to jist of your dream?
+User:		I had a dream about going on a journey with a friend. As we left, a really bad storm hit.
+Therapist:	Thats good
+Therapist:	Can you tell me more about what the journey means to you?
+User:		It was supposed to be fun but took a dark turn
+Therapist:	Interesting.
+Therapist:	Are there any more details you can give?
+User:		No, that does it
+Therapist:	Well, I think I know enough to try interpret this dream. Before we do that, would you like to 'get analysis' or provide a 'new dream'?
+User:		new dream
+Therapist:	Absolutely
+Therapist:	Lets get some details about this dream.
+User:		I took a trip to the beach with my family. Mum and dad had a big argument
+Therapist:	Can you tell me how the beach makes you feel?
+User:		I remember the weather being nice
+Therapist:	I see.
+Therapist:	Before I give you an analysis, Is there anything else you would like to tell me about this dream?
+User:		not really
+Therapist:	Well, it seems like I have enough information to interpret these dreams for you. Your first dream shows the death in a very negative context. Taking a trip shows a willingness for death. Storms show conflict in the unconscious. The second dream shows the death in a very negative context. Taking a trip shows a willingness for death. If a mother figure appears in your dream, this generally refers to a sexual symbolism. Father figures for males are associated with envy. Perhaps you have some unresolved family conflict. Both dreams share the symbolism of the Oedipus Complex, Psyche. They both show them in a very negative context. Look into Freud's dream symbolism for more information.
+
+			Dream conversation 3: Same Symbol, Different Sentiment
+
+Therapist:	Hello!
+User:		Hi
+Therapist:	Lets begin by getting your name.
+User:		It is Chris
+Therapist:	Pleasure to meet you Chris!
+Therapist:	How about you start telling me about your dream?
+User:		She is going through the hall of her house and strikes her head against the low-hanging chandelier, so that her head bleeds
+Therapist:	Thats good
+Therapist:	Can you tell me more about what the house means to you?
+User:		It was my friends house
+Therapist:	Interesting.
+Therapist:	Are there any more details you can give?
+User:		It was darker than usual 
+Therapist:	Well, I think we can analyse this dream. Before we do that, would you like to 'get analysis' or provide a 'new dream'?
+User:		new dream
+Therapist:	Absolutely
+Therapist:	Lets get some details about this dream.
+User:		I was walking along a beach and a naked person was lying in the sun.
+Therapist:	Can you tell me how the nakedness make you feel?
+User:		I remember the weather being nice. She was rather beautiful
+Therapist:	I see.
+Therapist:	Before I give you an analysis, Is there anything else you would like to tell me about this dream?
+User:		not really
+Therapist:	Well, it seems like I have enough information to interpret these dreams for you. Your first dream shows the body in a negative context. House represent the body. smooth, featureless buildings and male whilst featurfull ones with clingable objects are female. The second dream shows the body in a positive context. Both dreams share the symbolism of the body, but are shown in different contexts. Look into Freud's dream symbolism for more information.
+
+			Dream conversation 4: Different Symbol, Same Sentiment
+			
+Therapist:	Hello!
+User:		Hi
+Therapist:	Lets begin by getting your name.
+User:		I am Warrick
+Therapist:	Good to have you Warrick!
+Therapist:	Tell me about your dream?
+User:		She is standing in front of the drawer of her writing table, with which she is so familiar that she knows immediately if anybody has been through it
+Therapist:	Interesting.
+Therapist:	Can you tell me more about the table?
+User:		It was comforting
+Therapist:	Right, got it.
+Therapist:	Are there any more details you wish to give?
+User:		Not really
+Therapist:	Well, I think we can analyse this dream. Before we do that, would you like to 'get analysis' or provide a 'new dream'?
+User:		new dream
+Therapist:	Sure
+Therapist:	Tell me about the dream
+User:		I was walking through the street and a load of naked people started chasing me.
+Therapist:	Sure
+Therapist:	How did naked make you feel?
+User:		It was a weird. Ultimately enjoyable, I guess
+Therapist:	I see.
+Therapist:	Before I give you an analysis, Is there anything else you would like to tell me about this dream?
+User:		That does it
+Therapist:	Well, it seems like I have enough information to interpret these dreams for you. Your first dream shows the Oedipus Complex in a positive context. Tables represent women or mother figures. The second dream shows the body in a positive context.Nakedness is a sign you need to be less reliant on others. Maybe your going through a phase of independance? Both dreams have different symbolism, but they are both positive. Don't overthink it. Look into Freud's dream symbolism for more information.
+
+			Dream conversation 5: Different Symbol, Different Sentiment
+			
+Therapist:	Hello!
+User:		Hi. My name is Alex
+Therapist:	Alex, brilliant name!
+Therapist:	How about you start telling me about your dream?
+User:		Someone broke into my house. They were dressed in black. I chased him and he ran into the darkness.
+Therapist:	How did the church appear?
+User:		It was scary and spooky
+Therapist:	Hmmm.
+Therapist: 	Are there any else you would like to say?
+User:		no
+Therapist:	Well, it seems like I have enough information to interpret this dream. Before we do that, would you like to 'get analysis' or provide a 'new dream'?
+User:		new dream
+Therapist:	Go for it.
+Therapist:	What can you tell me about this dream?
+User:		I am sitting in a train and it goes through all these beautiful places, from mountains to fields
+Therapist:	How did train make you feel?
+User:		Everything about the dream was nice
+Therapist:	Before I give you an analysis, Is there anything else you would like to tell me about this dream?
+User:		That does it
+Therapist:	Well, it seems like I have enough information to interpret these dreams for you. Your first dream shows the body, sex symbol in a negative context. House represent the body. smooth, featureless buildings and male whilst featurfull ones with clingable objects are female. The colour black is associated to our uncoincious mind, according to Carl Jung (1930). The second dreams shows. Mountains represent peaks. Its likely that you have overcome a major milestone if you end up on  top of a mountain. The dreams provided have nothing in common. Maybe try some different dreams and see what comes up.
+
+Reference:
+https://www.bartleby.com/283/12.html
+
